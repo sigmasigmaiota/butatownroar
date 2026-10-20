@@ -1,0 +1,796 @@
+code,label,section,source,unit,order,profile,base,has_pct,has_data
+Pop_1,Total population,Sex and age,DP05,Persons,0,Demographic,Pop_1,True,True
+Male,Male,Sex and age,DP05,Persons,1,Demographic,Pop_1,True,True
+Fem,Female,Sex and age,DP05,Persons,2,Demographic,Pop_1,True,True
+PopU5,Under 5 years,Sex and age,DP05,Persons,3,Demographic,Pop_1,True,True
+Pop5t9,5 to 9 years,Sex and age,DP05,Persons,4,Demographic,Pop_1,True,True
+Pop10t14,10 to 14 years,Sex and age,DP05,Persons,5,Demographic,Pop_1,True,True
+Pop15t19,15 to 19 years,Sex and age,DP05,Persons,6,Demographic,Pop_1,True,True
+Pop20t24,20 to 24 years,Sex and age,DP05,Persons,7,Demographic,Pop_1,True,True
+Pop25t29,25 to 29 years,Sex and age,B01001,Persons,8,Demographic,Pop_1,True,True
+Pop30t34,30 to 34 years,Sex and age,B01001,Persons,9,Demographic,Pop_1,True,True
+Pop35t39,35 to 39 years,Sex and age,B01001,Persons,10,Demographic,Pop_1,True,True
+Pop40t44,40 to 44 years,Sex and age,B01001,Persons,11,Demographic,Pop_1,True,True
+Pop45t49,45 to 49 years,Sex and age,B01001,Persons,12,Demographic,Pop_1,True,True
+Pop50t54,50 to 54 years,Sex and age,B01001,Persons,13,Demographic,Pop_1,True,True
+Pop55t59,55 to 59 years,Sex and age,DP05,Persons,14,Demographic,Pop_1,True,True
+Pop60t64,60 to 64 years,Sex and age,DP05,Persons,15,Demographic,Pop_1,True,True
+Pop65t69,65 to 69 years,Sex and age,B01001,Persons,16,Demographic,Pop_1,True,True
+Pop70t74,70 to 74 years,Sex and age,B01001,Persons,17,Demographic,Pop_1,True,True
+Pop75t79,75 to 79 years,Sex and age,B01001,Persons,18,Demographic,Pop_1,True,True
+Pop80t84,80 to 84 years,Sex and age,B01001,Persons,19,Demographic,Pop_1,True,True
+Pop85pl,85 years and over,Sex and age,DP05,Persons,20,Demographic,Pop_1,True,True
+PopU181,Under 18 years,Sex and age,DP05,Persons,21,Demographic,Pop_1,True,True
+Pop65pl1,65 years and over,Sex and age,DP05,Persons,22,Demographic,Pop_1,True,True
+MdAge,Median age (years),Sex and age,"DP05, B01001",Persons,23,Demographic,,False,False
+PopU18_2,Under 18 years,Sex and age,B05003,Persons,24,Demographic,PopU18_2,True,True
+PopU18M,Male,Sex and age,B05003,Persons,25,Demographic,PopU18_2,True,True
+PopU18F,Female,Sex and age,B05003,Persons,26,Demographic,PopU18_2,True,True
+Pop65pl2,65 years and over,Sex and age,DP05,Persons,27,Demographic,Pop65pl2,True,True
+Pop65plM,Male,Sex and age,DP05,Persons,28,Demographic,Pop65pl2,True,True
+Pop65plF,Female,Sex and age,DP05,Persons,29,Demographic,Pop65pl2,True,True
+Pop_2,Total population,Mutually exclusive race/hispanic origin,DP05,Persons,30,Demographic,Pop_2,True,True
+Hsp1,Hispanic/Latino (of any race),Mutually exclusive race/hispanic origin,DP05,Persons,31,Demographic,Pop_2,True,True
+NHsp,Not Hispanic/Latino,Mutually exclusive race/hispanic origin,DP05,Persons,32,Demographic,Pop_2,True,True
+WtNH,White alone,Mutually exclusive race/hispanic origin,DP05,Persons,33,Demographic,Pop_2,True,True
+BlNH,Black or African American alone,Mutually exclusive race/hispanic origin,DP05,Persons,34,Demographic,Pop_2,True,True
+AIANNH,American Indian and Alaska Native alone,Mutually exclusive race/hispanic origin,DP05,Persons,35,Demographic,Pop_2,True,True
+AsnNH,Asian alone,Mutually exclusive race/hispanic origin,DP05,Persons,36,Demographic,Pop_2,True,True
+NHPINH,Native Hawaiian and Other Pacific Islander alone,Mutually exclusive race/hispanic origin,DP05,Persons,37,Demographic,Pop_2,True,True
+OthNH,Some other race alone,Mutually exclusive race/hispanic origin,DP05,Persons,38,Demographic,Pop_2,True,True
+Rc2plNH,Two or more races,Mutually exclusive race/hispanic origin,DP05,Persons,39,Demographic,Pop_2,True,True
+Hsp2,Hispanic/Latino,Hispanic subgroup,B03001,Persons,40,Demographic,Hsp2,True,True
+HspMe,Mexican,Hispanic subgroup,B03001,Persons,41,Demographic,Hsp2,True,True
+HspPR,Puerto Rican,Hispanic subgroup,B03001,Persons,42,Demographic,Hsp2,True,True
+HspCub,Cuban,Hispanic subgroup,B03001,Persons,43,Demographic,Hsp2,True,True
+HspDom,Dominican (Dominican Republic),Hispanic subgroup,B03001,Persons,44,Demographic,Hsp2,True,True
+HspCAm,Central American,Hispanic subgroup,B03001,Persons,45,Demographic,Hsp2,True,True
+HspCR,Costa Rican,Hispanic subgroup,B03001,Persons,46,Demographic,Hsp2,True,True
+HspGuatm,Guatemalan,Hispanic subgroup,B03001,Persons,47,Demographic,Hsp2,True,True
+HspHnd,Honduran,Hispanic subgroup,B03001,Persons,48,Demographic,Hsp2,True,True
+HspNic,Nicaraguan,Hispanic subgroup,B03001,Persons,49,Demographic,Hsp2,True,True
+HspPan,Panamanian,Hispanic subgroup,B03001,Persons,50,Demographic,Hsp2,True,True
+HspSalv,Salvadoran,Hispanic subgroup,B03001,Persons,51,Demographic,Hsp2,True,True
+HspOCAm,Other Central American,Hispanic subgroup,B03001,Persons,52,Demographic,Hsp2,True,True
+HspSAm,South American,Hispanic subgroup,B03001,Persons,53,Demographic,Hsp2,True,True
+HspArg,Argentinean,Hispanic subgroup,B03001,Persons,54,Demographic,Hsp2,True,True
+HspBol,Bolivian,Hispanic subgroup,B03001,Persons,55,Demographic,Hsp2,True,True
+HspChl,Chilean,Hispanic subgroup,B03001,Persons,56,Demographic,Hsp2,True,True
+HspCol,Colombian,Hispanic subgroup,B03001,Persons,57,Demographic,Hsp2,True,True
+HspEc,Ecuadorian,Hispanic subgroup,B03001,Persons,58,Demographic,Hsp2,True,True
+HspPrg,Paraguayan,Hispanic subgroup,B03001,Persons,59,Demographic,Hsp2,True,True
+HspPeru,Peruvian,Hispanic subgroup,B03001,Persons,60,Demographic,Hsp2,True,True
+HspUrg,Uruguayan,Hispanic subgroup,B03001,Persons,61,Demographic,Hsp2,True,True
+HspVnz,Venezuelan,Hispanic subgroup,B03001,Persons,62,Demographic,Hsp2,True,True
+HspOSAm,Other South American,Hispanic subgroup,B03001,Persons,63,Demographic,Hsp2,True,True
+HspOth,Other Hispanic/Latino,Hispanic subgroup,B03001,Persons,64,Demographic,Hsp2,True,True
+HspSpnrd,Spaniard,Hispanic subgroup,B03001,Persons,65,Demographic,Hsp2,True,True
+HspSpnsh,Spanish,Hispanic subgroup,B03001,Persons,66,Demographic,Hsp2,True,True
+HspSpAm,Spanish American,Hispanic subgroup,B03001,Persons,67,Demographic,HspDom,True,True
+HspAllOth,All other Hispanic/Latino,Hispanic subgroup,B03001,Persons,68,Demographic,Hsp2,True,True
+Asn1Rc,Asian Alone,Asian subgroup,B02015,Persons,69,Demographic,Asn1Rc,True,True
+AsnEast,East Asian,Asian subgroup,B02015,Persons,70,Demographic,Asn1Rc,True,True
+AsnChiNoT,"Chinese, except Taiwanese",Asian subgroup,B02015,Persons,71,Demographic,Asn1Rc,True,True
+AsnHmng,Hmong,Asian subgroup,B02015,Persons,72,Demographic,Asn1Rc,True,True
+AsnJpn,Japanese,Asian subgroup,B02015,Persons,73,Demographic,Asn1Rc,True,True
+AsnKor,Korean,Asian subgroup,B02015,Persons,74,Demographic,Asn1Rc,True,True
+AsnMgol,Mongolian,Asian subgroup,B02015,Persons,75,Demographic,Asn1Rc,True,True
+AsnOkinw,Okinawan,Asian subgroup,B02015,Persons,76,Demographic,,False,True
+AsnTwn,Taiwanese,Asian subgroup,B02015,Persons,77,Demographic,Asn1Rc,True,True
+AsnOEast,Other East Asian,Asian subgroup,B02015,Persons,78,Demographic,,False,True
+AsnSEast,Southeast Asian,Asian subgroup,B02015,Persons,79,Demographic,Asn1Rc,True,True
+AsnBurm,Burmese,Asian subgroup,B02015,Persons,80,Demographic,Asn1Rc,True,True
+AsnCmb,Cambodian,Asian subgroup,B02015,Persons,81,Demographic,Asn1Rc,True,True
+AsnFlp,Filipino,Asian subgroup,B02015,Persons,82,Demographic,Asn1Rc,True,True
+AsnIndnsn,Indonesian,Asian subgroup,B02015,Persons,83,Demographic,Asn1Rc,True,True
+AsnLao,Laotian,Asian subgroup,B02015,Persons,84,Demographic,Asn1Rc,True,True
+AsnMalsn,Malaysian,Asian subgroup,B02015,Persons,85,Demographic,Asn1Rc,True,True
+AsnMien,Mien,Asian subgroup,B02015,Persons,86,Demographic,,False,True
+AsnSingpr,Singaporean,Asian subgroup,B02015,Persons,87,Demographic,Asn1Rc,True,True
+AsnThai,Thai,Asian subgroup,B02015,Persons,88,Demographic,Asn1Rc,True,True
+AsnVtn,Vietnamese,Asian subgroup,B02015,Persons,89,Demographic,Asn1Rc,True,True
+AsnOSEast,Other Southeast Asian,Asian subgroup,B02015,Persons,90,Demographic,Asn1Rc,True,True
+AsnSouth,South Asian,Asian subgroup,B02015,Persons,91,Demographic,Asn1Rc,True,True
+AsnInd,Asian Indian,Asian subgroup,B02015,Persons,92,Demographic,Asn1Rc,True,True
+AsnBng,Bangladeshi,Asian subgroup,B02015,Persons,93,Demographic,Asn1Rc,True,True
+AsnBhutn,Bhutanese,Asian subgroup,B02015,Persons,94,Demographic,,False,True
+AsnNepal,Nepalese,Asian subgroup,B02015,Persons,95,Demographic,Asn1Rc,True,True
+AsnPak,Pakistani,Asian subgroup,B02015,Persons,96,Demographic,Asn1Rc,True,True
+AsnSikh,Sikh,Asian subgroup,B02015,Persons,97,Demographic,,False,True
+AsnSriL,Sri Lankan,Asian subgroup,B02015,Persons,98,Demographic,Asn1Rc,True,True
+AsnOSouth,Other South Asian,Asian subgroup,B02015,Persons,99,Demographic,Asn1Rc,True,True
+AsnCntrl,Central Asian,Asian subgroup,B02015,Persons,100,Demographic,Asn1Rc,True,True
+AsnKazakh,Kazakh,Asian subgroup,B02015,Persons,101,Demographic,Asn1Rc,True,True
+AsnUzbek,Uzbek,Asian subgroup,B02015,Persons,102,Demographic,,False,True
+AsnOCntrl,Other Central Asian,Asian subgroup,B02015,Persons,103,Demographic,Asn1Rc,True,True
+AsnOAsn,Other Asian,Asian subgroup,B02015,Persons,104,Demographic,Asn1Rc,True,True
+Asn2pl,Two or more Asian,Asian subgroup,B02015,Persons,105,Demographic,Asn1Rc,True,True
+Pop16pl,Population 16 years and over,Employment status,DP03,Persons,0,Economic,Pop16pl,True,True
+LF,In labor force,Employment status,DP03,Persons,1,Economic,Pop16pl,True,True
+CvLF1,Civilian labor force,Employment status,DP03,Persons,2,Economic,Pop16pl,True,True
+CvEm16pl1,Employed,Employment status,DP03,Persons,3,Economic,Pop16pl,True,True
+CvLFUEm1,Unemployed,Employment status,DP03,Persons,4,Economic,Pop16pl,True,True
+LFArmdF,Armed Forces,Employment status,DP03,Persons,5,Economic,Pop16pl,True,True
+NLF1,Not in labor force,Employment status,DP03,Persons,6,Economic,Pop16pl,True,True
+CvLF2,Civilian labor force,Employment status,DP03,Persons,7,Economic,CvLF2,True,True
+CvLFUEm2,Unemployed,Employment status,DP03,Persons,8,Economic,CvLF2,True,True
+F16pl,Females 16 years and over,Employment status,DP03,Persons,9,Economic,F16pl,True,True
+F16plLF,In labor force,Employment status,DP03,Persons,10,Economic,F16pl,True,True
+F16plCvLF,Civilian labor force,Employment status,DP03,Persons,11,Economic,F16pl,True,True
+F16plCLFE,Employed,Employment status,DP03,Persons,12,Economic,F16pl,True,True
+OChU6,Own children under 6 years,Employment status,DP03,Persons,13,Economic,OChU6,True,True
+OChU6PLF,All parents in family in labor force,Employment status,DP03,Persons,14,Economic,OChU6,True,True
+OCh6t17,Own children 6 to 17 years,Employment status,DP03,Persons,15,Economic,OCh6t17,True,True
+OC6t17PLF,All parents in family in labor force,Employment status,DP03,Persons,16,Economic,OCh6t17,True,True
+Wrkr16pl,Workers 16 years and over,Commute to work,DP03,Persons,17,Economic,Wrkr16pl,True,True
+CW_DrvAln,"Car, truck, or van -- drove alone",Commute to work,DP03,Persons,18,Economic,Wrkr16pl,True,True
+CW_Crpld,"Car, truck, or van -- carpooled",Commute to work,DP03,Persons,19,Economic,Wrkr16pl,True,True
+CW_PbTrns,Public transportation,Commute to work,DP03,Persons,20,Economic,Wrkr16pl,True,True
+CW_Wlkd,Walked,Commute to work,DP03,Persons,21,Economic,Wrkr16pl,True,True
+CW_Oth,Other means,Commute to work,DP03,Persons,22,Economic,Wrkr16pl,True,True
+CW_WrkdHm,Worked at home,Commute to work,DP03,Persons,23,Economic,Wrkr16pl,True,True
+MnTrvTm,Mean travel time to work (minutes),Commute to work,"DP03, B08013",Persons,24,Economic,,False,True
+CvEm16pl2,Civilian employed population 16 years and over,Occupation,DP03,Persons,25,Economic,CvEm16pl2,True,True
+MgBSciArt,"Management, business, science, and arts",Occupation,DP03,Persons,26,Economic,CvEm16pl2,True,True
+Srvc,Service,Occupation,DP03,Persons,27,Economic,CvEm16pl2,True,True
+SalesOff,Sales and office,Occupation,DP03,Persons,28,Economic,CvEm16pl2,True,True
+NRCnstMnt,"Natural resources, construction, and maintenance",Occupation,DP03,Persons,29,Economic,CvEm16pl2,True,True
+PrdTrnsMM,"Production, transportation, and material moving",Occupation,DP03,Persons,30,Economic,CvEm16pl2,True,True
+CvEm16pl3,Civilian employed population 16 years and over,Industry,DP03,Persons,31,Economic,CvEm16pl3,True,True
+AgFFHM,"Agriculture, forestry, fishing and hunting, and mining",Industry,DP03,Persons,32,Economic,CvEm16pl3,True,True
+Constctn,Construction,Industry,DP03,Persons,33,Economic,CvEm16pl3,True,True
+Mnfctrng,Manufacturing,Industry,DP03,Persons,34,Economic,CvEm16pl3,True,True
+Whlsale,Wholesale trade,Industry,DP03,Persons,35,Economic,CvEm16pl3,True,True
+Retail,Retail trade,Industry,DP03,Persons,36,Economic,CvEm16pl3,True,True
+TrWHUt,"Transportation and warehousing, and utilities",Industry,DP03,Persons,37,Economic,CvEm16pl3,True,True
+Info,Information,Industry,DP03,Persons,38,Economic,CvEm16pl3,True,True
+FIRE,"Finance and insurance, and real estate and rental and leasing",Industry,DP03,Persons,39,Economic,CvEm16pl3,True,True
+PrfSMgAWM,"Professional, scientific, and management, and administrative and waste management services",Industry,DP03,Persons,40,Economic,CvEm16pl3,True,True
+EdHlthCSA,"Educational services, and health care and social assistance",Industry,DP03,Persons,41,Economic,CvEm16pl3,True,True
+ArtEnRAFS,"Arts, entertainment, and recreation, and accommodation, and food services",Industry,DP03,Persons,42,Economic,CvEm16pl3,True,True
+OthnotPA,"Other services, except public administration",Industry,DP03,Persons,43,Economic,CvEm16pl3,True,True
+PubAdmin,Public administration,Industry,DP03,Persons,44,Economic,CvEm16pl3,True,True
+CvEm16pl4,Civilian employed population 16 years and over,Class of worker,DP03,Persons,45,Economic,CvEm16pl4,True,True
+PrvWSWrkr,Private wage and salary workers,Class of worker,DP03,Persons,46,Economic,CvEm16pl4,True,True
+GvtWrkr,Government workers,Class of worker,DP03,Persons,47,Economic,CvEm16pl4,True,True
+SlfEmNInc,Self-employed workers in own not incorporated business,Class of worker,DP03,Persons,48,Economic,CvEm16pl4,True,True
+UpdFmWrkr,Unpaid family workers,Class of worker,DP03,Persons,49,Economic,CvEm16pl4,True,True
+HH2,Total households,Income and benefits,DP03,Households,50,Economic,HH2,True,True
+HHIU10,"Household income of less than $10,000",Income and benefits,DP03,Households,51,Economic,HH2,True,True
+HHI10t14,"$10,000 to $14,999",Income and benefits,DP03,Households,52,Economic,HH2,True,True
+HHI15t24,"$15,000 to $24,999",Income and benefits,DP03,Households,53,Economic,HH2,True,True
+HHI25t34,"$25,000 to $34,999",Income and benefits,DP03,Households,54,Economic,HH2,True,True
+HHI35t49,"$35,000 to $49,999",Income and benefits,DP03,Households,55,Economic,HH2,True,True
+HHI50t74,"$50,000 to $74,999",Income and benefits,DP03,Households,56,Economic,HH2,True,True
+HHI75t99,"$75,000 to $99,999",Income and benefits,DP03,Households,57,Economic,HH2,True,True
+HI100t149,"$100,000 to $149,999",Income and benefits,DP03,Households,58,Economic,HH2,True,True
+HI150t199,"$150,000 to $199,999",Income and benefits,DP03,Households,59,Economic,HH2,True,True
+HHI200pl,"$200,000 or more",Income and benefits,DP03,Households,60,Economic,HH2,True,True
+MdHHInc,Median household income (dollars),Income and benefits,"DP03, B19001",Households,61,Economic,,False,False
+MnHHInc,Mean household income (dollars),Income and benefits,"DP03, B19025",Households,62,Economic,,False,True
+Inc_SoSec,Households with Social Security,Income and benefits,DP03,Households,63,Economic,HH2,True,True
+Inc_Rtrmt,Households with retirement income,Income and benefits,DP03,Households,64,Economic,HH2,True,True
+Inc_SpSec,Households with Supplemental Security Income,Income and benefits,DP03,Households,65,Economic,HH2,True,True
+Inc_CPbA,Households with cash public assistance income,Income and benefits,DP03,Households,66,Economic,HH2,True,True
+Inc_SNAP,Households with Food Stamp/SNAP benefits in the past 12 months,Income and benefits,DP03,Households,67,Economic,HH2,True,True
+Fam2,Family Households,Income and benefits,DP03,Households,68,Economic,Fam2,True,True
+FamIU10,"Family income of less than $10,000",Income and benefits,DP03,Households,69,Economic,Fam2,True,True
+FamI10t14,"$10,000 to $14,999",Income and benefits,DP03,Households,70,Economic,Fam2,True,True
+FamI15t24,"$15,000 to $24,999",Income and benefits,DP03,Households,71,Economic,Fam2,True,True
+FamI25t34,"$25,000 to $34,999",Income and benefits,DP03,Households,72,Economic,Fam2,True,True
+FamI35t49,"$35,000 to $49,999",Income and benefits,DP03,Households,73,Economic,Fam2,True,True
+FamI50t74,"$50,000 to $74,999",Income and benefits,DP03,Households,74,Economic,Fam2,True,True
+FamI75t99,"$75,000 to $99,999",Income and benefits,DP03,Households,75,Economic,Fam2,True,True
+FI100t149,"$100,000 to $149,999",Income and benefits,DP03,Households,76,Economic,Fam2,True,True
+FI150t199,"$150,000 to $199,999",Income and benefits,DP03,Households,77,Economic,Fam2,True,True
+FamI200pl,"$200,000 or more",Income and benefits,DP03,Households,78,Economic,Fam2,True,True
+MdFamInc,Median family income (dollars),Income and benefits,"DP03, B19101",Households,79,Economic,,False,False
+Nfam2,Nonfamily households,Income and benefits,DP03,Households,80,Economic,Nfam2,True,True
+MdNFInc,Median nonfamily income (dollars),Income and benefits,"DP03, B19201",Households,81,Economic,,False,False
+PerCapInc,Per capita income (dollars),Income and benefits,"DP03, B01001, B19313",Households,82,Economic,,False,True
+MdEWrk,Median earnings for workers (dollars),Earnings,"DP03, B20005",Persons,83,Economic,,False,False
+MdEMFTWrk,"Median earnings for male full-time, year-round workers (dollars)",Earnings,"DP03, B20005",Persons,84,Economic,,False,False
+MdEFFTWrk,"Median earnings for female full-time, year-round workers (dollars)",Earnings,"DP03, B20005",Persons,85,Economic,,False,False
+CvNIPop2,Civilian noninstitutionalized population,Health insurance coverage,DP03,Persons,86,Economic,CvNIPop2,True,True
+HIns,With health insurance coverage,Health insurance coverage,DP03,Persons,87,Economic,CvNIPop2,True,True
+PvHIns,With private health insurance,Health insurance coverage,DP03,Persons,88,Economic,CvNIPop2,True,True
+PbHIns,With public coverage,Health insurance coverage,DP03,Persons,89,Economic,CvNIPop2,True,True
+NHIns,No health insurance coverage,Health insurance coverage,DP03,Persons,90,Economic,CvNIPop2,True,True
+CvNIU18_2,Civilian noninstitutionalized population under 18 years,Health insurance coverage,DP03,Persons,91,Economic,CvNIU18_2,True,True
+U18NHIns,No health insurance coverage,Health insurance coverage,DP03,Persons,92,Economic,CvNIU18_2,True,True
+CNI1864_2,Civilian noninstitutionalized population 18 to 64 years,Health insurance coverage,DP03,Persons,93,Economic,,False,True
+CvLF18t64,In labor force,Health insurance coverage,DP03,Persons,94,Economic,,False,True
+CvLFEm,Employed,Health insurance coverage,DP03,Persons,95,Economic,CvLFEm,True,True
+EmHIns,With health insurance coverage,Health insurance coverage,DP03,Persons,96,Economic,CvLFEm,True,True
+EmPvHIns,With private health insurance,Health insurance coverage,DP03,Persons,97,Economic,CvLFEm,True,True
+EmPbHIns,With public coverage,Health insurance coverage,DP03,Persons,98,Economic,CvLFEm,True,True
+EmNHIns,No health insurance coverage,Health insurance coverage,DP03,Persons,99,Economic,CvLFEm,True,True
+UEm,Unemployed,Health insurance coverage,DP03,Persons,100,Economic,UEm,True,True
+UEmHIns,With health insurance coverage,Health insurance coverage,DP03,Persons,101,Economic,UEm,True,True
+UEmPvHIns,With private health insurance,Health insurance coverage,DP03,Persons,102,Economic,UEm,True,True
+UEmPbHIns,With public coverage,Health insurance coverage,DP03,Persons,103,Economic,UEm,True,True
+UEmNHIns,No health insurance coverage,Health insurance coverage,DP03,Persons,104,Economic,UEm,True,True
+NLF2,Not in labor force,Health insurance coverage,DP03,Persons,105,Economic,NLF2,True,True
+NLFHIns,With health insurance coverage,Health insurance coverage,DP03,Persons,106,Economic,NLF2,True,True
+NLFPvHIns,With private health insurance,Health insurance coverage,DP03,Persons,107,Economic,NLF2,True,True
+NLFPbHIns,With public coverage,Health insurance coverage,DP03,Persons,108,Economic,NLF2,True,True
+NLFNHIns,No health insurance coverage,Health insurance coverage,DP03,Persons,109,Economic,NLF2,True,True
+FamPvU,All families,Income in the past 12 months is below the poverty level,B17010,Persons,110,Economic,FamPvU,True,True
+FamBwPv,Below poverty,Income in the past 12 months is below the poverty level,B17010,Persons,111,Economic,FamPvU,True,True
+PopPvU1,Population for whom poverty status is determined,Income in the past 12 months is below the poverty level,S1701,Persons,112,Economic,PopPvU1,True,True
+PBwPv,Below poverty,Income in the past 12 months is below the poverty level,S1701,Persons,113,Economic,PopPvU1,True,True
+PU18PvU,Under 18 years,Income in the past 12 months is below the poverty level,S1701,Persons,114,Economic,PU18PvU,True,True
+PU18BwPv,Below poverty,Income in the past 12 months is below the poverty level,S1701,Persons,115,Economic,PU18PvU,True,True
+P65plPvU,65 years and over,Income in the past 12 months is below the poverty level,S1701,Persons,116,Economic,P65plPvU,True,True
+P65plBwPv,Below poverty,Income in the past 12 months is below the poverty level,S1701,Persons,117,Economic,P65plPvU,True,True
+PopPvU2,Population for whom poverty status is determined,Ratio of income to poverty level,B17024,Persons,118,Economic,PopPvU2,True,True
+PvU50,Under .50,Ratio of income to poverty level,B17024,Persons,119,Economic,PopPvU2,True,True
+Pv50t74,.50 to .74,Ratio of income to poverty level,B17024,Persons,120,Economic,PopPvU2,True,True
+Pv75t99,.75 to .99,Ratio of income to poverty level,B17024,Persons,121,Economic,PopPvU2,True,True
+Pv100t124,1.00 to 1.24,Ratio of income to poverty level,B17024,Persons,122,Economic,PopPvU2,True,True
+Pv125t149,1.25 to 1.49,Ratio of income to poverty level,B17024,Persons,123,Economic,PopPvU2,True,True
+Pv150t174,1.50 to 1.74,Ratio of income to poverty level,B17024,Persons,124,Economic,PopPvU2,True,True
+Pv175t184,1.75 to 1.84,Ratio of income to poverty level,B17024,Persons,125,Economic,PopPvU2,True,True
+Pv185t199,1.85 to 1.99,Ratio of income to poverty level,B17024,Persons,126,Economic,PopPvU2,True,True
+Pv200t299,2.00 to 2.99,Ratio of income to poverty level,B17024,Persons,127,Economic,PopPvU2,True,True
+Pv300t399,3.00 to 3.99,Ratio of income to poverty level,B17024,Persons,128,Economic,PopPvU2,True,True
+Pv400t499,4.00 to 4.99,Ratio of income to poverty level,B17024,Persons,129,Economic,PopPvU2,True,True
+Pv500pl,5.00 and over,Ratio of income to poverty level,B17024,Persons,130,Economic,PopPvU2,True,True
+HU1,Total housing units,Housing occupancy,DP04,Households,0,Housing,HU1,True,True
+OcHU1,Occupied housing units,Housing occupancy,DP04,Households,1,Housing,HU1,True,True
+VacHU,Vacant housing units,Housing occupancy,DP04,Households,2,Housing,HU1,True,True
+HOVacRt,Homeowner vacancy rate,Housing occupancy,"DP04, B25004",Households,3,Housing,,False,True
+RntVacRt,Rental vacancy rate,Housing occupancy,"DP04, B25004",Households,4,Housing,,False,True
+HU2,Total housing units,Units in structure,DP04,Households,5,Housing,HU2,True,True
+HU1uD,"1-unit, detached",Units in structure,DP04,Households,6,Housing,HU2,True,True
+HU1uA,"1-unit, attached",Units in structure,DP04,Households,7,Housing,HU2,True,True
+HU2u,2 units,Units in structure,DP04,Households,8,Housing,HU2,True,True
+HU3t4u,3 or 4 units,Units in structure,DP04,Households,9,Housing,HU2,True,True
+HU5t9u,5 to 9 units,Units in structure,DP04,Households,10,Housing,HU2,True,True
+HU10t19u,10 to 19 units,Units in structure,DP04,Households,11,Housing,HU2,True,True
+HU20plu,20 or more units,Units in structure,DP04,Households,12,Housing,HU2,True,True
+MobHm,Mobile home,Units in structure,DP04,Households,13,Housing,HU2,True,True
+BtRVVEtc,"Boat, RV, van, etc.",Units in structure,DP04,Households,14,Housing,HU2,True,True
+HU3,Total housing units,Year structure built,DP04,Households,15,Housing,HU3,True,True
+Blt10Ltr,Built 2010 or later,Year structure built,DP04,Households,16,Housing,HU3,True,True
+Blt00t09,Built 2000 to 2009,Year structure built,DP04,Households,17,Housing,HU3,True,True
+Blt90t99,Built 1990 to 1999,Year structure built,DP04,Households,18,Housing,HU3,True,True
+Blt80t89,Built 1980 to 1989,Year structure built,DP04,Households,19,Housing,HU3,True,True
+Blt70t79,Built 1970 to 1979,Year structure built,DP04,Households,20,Housing,HU3,True,True
+Blt60t69,Built 1960 to 1969,Year structure built,DP04,Households,21,Housing,HU3,True,True
+Blt50t59,Built 1950 to 1959,Year structure built,DP04,Households,22,Housing,HU3,True,True
+Blt40t49,Built 1940 to 1949,Year structure built,DP04,Households,23,Housing,HU3,True,True
+BltBf39,Built 1939 or earlier,Year structure built,DP04,Households,24,Housing,HU3,True,True
+HU4,Total housing units,Rooms,DP04,Households,25,Housing,HU4,True,True
+Rms1,1 room,Rooms,DP04,Households,26,Housing,HU4,True,True
+Rms2,2 rooms,Rooms,DP04,Households,27,Housing,HU4,True,True
+Rms3,3 rooms,Rooms,DP04,Households,28,Housing,HU4,True,True
+Rms4,4 rooms,Rooms,DP04,Households,29,Housing,HU4,True,True
+Rms5,5 rooms,Rooms,DP04,Households,30,Housing,HU4,True,True
+Rms6,6 rooms,Rooms,DP04,Households,31,Housing,HU4,True,True
+Rms7,7 rooms,Rooms,DP04,Households,32,Housing,HU4,True,True
+Rms8,8 rooms,Rooms,DP04,Households,33,Housing,HU4,True,True
+Rms9pl,9 rooms or more,Rooms,DP04,Households,34,Housing,HU4,True,True
+MdRms,Median rooms,Rooms,DP04,Households,35,Housing,,False,False
+OcHU2,Occupied housing units,Housing tenure,DP04,Households,36,Housing,OcHU2,True,True
+OOcHU1,Owner-occupied,Housing tenure,DP04,Households,37,Housing,OcHU2,True,True
+ROcHU1,Renter-occupied,Housing tenure,DP04,Households,38,Housing,OcHU2,True,True
+AvgHHSOOc,Average household size of owner-occupied unit,Housing tenure,"DP04, B25008",Households,39,Housing,,False,True
+AvgHHSROc,Average household size of renter-occupied unit,Housing tenure,"DP04, B25008",Households,40,Housing,,False,True
+OcHU3,Occupied housing units,Year householder moved into unit,DP04,Households,41,Housing,OcHU3,True,True
+Mv10Ltr,Moved in 2010 or later,Year householder moved into unit,DP04,Households,42,Housing,OcHU3,True,True
+Mv00t09,Moved in 2000 to 2009,Year householder moved into unit,DP04,Households,43,Housing,OcHU3,True,True
+Mv90t99,Moved in 1990 to 1999,Year householder moved into unit,DP04,Households,44,Housing,OcHU3,True,True
+MvBf89,Moved in 1989 or earlier,Year householder moved into unit,DP04,Households,45,Housing,OcHU3,True,True
+OcHU4,Occupied housing units,Vehicles available,DP04,Households,46,Housing,OcHU4,True,True
+NoVhclAv,No vehicles available,Vehicles available,DP04,Households,47,Housing,OcHU4,True,True
+Vhcl1Av,1 vehicle available,Vehicles available,DP04,Households,48,Housing,OcHU4,True,True
+Vhcl2Av,2 vehicles available,Vehicles available,DP04,Households,49,Housing,OcHU4,True,True
+Vhcl3plAv,3 or more vehicles available,Vehicles available,DP04,Households,50,Housing,OcHU4,True,True
+OcHU5,Occupied housing units,Occupants per room,DP04,Households,51,Housing,OcHU5,True,True
+OcPR0t1,1.00 or less,Occupants per room,DP04,Households,52,Housing,OcHU5,True,True
+OcPR1pl,1.01 or more,Occupants per room,DP04,Households,53,Housing,OcHU5,True,True
+OcPR1p5pl,1.51 or more,Occupants per room,DP04,Households,54,Housing,OcHU5,True,True
+OOcHU2,Owner-occupied units,Value,DP04,Households,55,Housing,OOcHU2,True,True
+VlU50,"Less than $50,000",Value,DP04,Households,56,Housing,OOcHU2,True,True
+Vl50t99,"$50,000 to $99,999",Value,DP04,Households,57,Housing,OOcHU2,True,True
+Vl100t149,"$100,000 to $149,999",Value,DP04,Households,58,Housing,OOcHU2,True,True
+Vl150t199,"$150,000 to $199,999",Value,DP04,Households,59,Housing,OOcHU2,True,True
+Vl200t299,"$200,000 to $299,999",Value,DP04,Households,60,Housing,OOcHU2,True,True
+Vl300t499,"$300,000 to $499,999",Value,DP04,Households,61,Housing,OOcHU2,True,True
+Vl500t999,"$500,000 to $999,999",Value,DP04,Households,62,Housing,OOcHU2,True,True
+Vl1milpl,"$1,000,000 or more",Value,DP04,Households,63,Housing,OOcHU2,True,True
+MdVl,Median (dollars),Value,"DP04, B25075",Households,64,Housing,,False,False
+OOcHU3,Owner-occupied units,Mortgage status,DP04,Households,65,Housing,OOcHU3,True,True
+HUwMrtg,Housing units with a mortgage,Mortgage status,DP04,Households,66,Housing,OOcHU3,True,True
+HUnoMrtg1,Housing units without a mortgage,Mortgage status,DP04,Households,67,Housing,OOcHU3,True,True
+HUwMrtgEx,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),Selected monthly owner costs as a percentage of household income (smocapi),DP04,Households,68,Housing,HUwMrtgEx,True,True
+SMPU20,Less than 20.0 percent,Selected monthly owner costs as a percentage of household income (smocapi),DP04,Households,69,Housing,HUwMrtgEx,True,True
+SMP20t24,20.0 to 24.9 percent,Selected monthly owner costs as a percentage of household income (smocapi),DP04,Households,70,Housing,HUwMrtgEx,True,True
+SMP25t29,25.0 to 29.9 percent,Selected monthly owner costs as a percentage of household income (smocapi),DP04,Households,71,Housing,HUwMrtgEx,True,True
+SMP30t34,30.0 to 34.9 percent,Selected monthly owner costs as a percentage of household income (smocapi),DP04,Households,72,Housing,HUwMrtgEx,True,True
+SMP35pl,35.0 percent or more,Selected monthly owner costs as a percentage of household income (smocapi),DP04,Households,73,Housing,HUwMrtgEx,True,True
+SMPNtC,Not computed,Selected monthly owner costs as a percentage of household income (smocapi),DP04,Households,74,Housing,,False,True
+HUnoMrtg2,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),Selected monthly owner costs as a percentage of household income (smocapi),DP04,Households,75,Housing,HUnoMrtg2,True,True
+NMSMPU10,Less than 10.0 percent,Selected monthly owner costs as a percentage of household income (smocapi),DP04,Households,76,Housing,HUnoMrtg2,True,True
+NMSMP1014,10.0 to 14.9 percent,Selected monthly owner costs as a percentage of household income (smocapi),DP04,Households,77,Housing,HUnoMrtg2,True,True
+NMSMP1519,15.0 to 19.9 percent,Selected monthly owner costs as a percentage of household income (smocapi),DP04,Households,78,Housing,HUnoMrtg2,True,True
+NMSMP2024,20.0 to 24.9 percent,Selected monthly owner costs as a percentage of household income (smocapi),DP04,Households,79,Housing,HUnoMrtg2,True,True
+NMSMP2529,25.0 to 29.9 percent,Selected monthly owner costs as a percentage of household income (smocapi),DP04,Households,80,Housing,HUnoMrtg2,True,True
+NMSMP3034,30.0 to 34.9 percent,Selected monthly owner costs as a percentage of household income (smocapi),DP04,Households,81,Housing,HUnoMrtg2,True,True
+NMSMP35pl,35.0 percent or more,Selected monthly owner costs as a percentage of household income (smocapi),DP04,Households,82,Housing,HUnoMrtg2,True,True
+NMSMPNtC,Not computed,Selected monthly owner costs as a percentage of household income (smocapi),DP04,Households,83,Housing,,False,True
+OcHUPRnt1,Occupied units paying rent,Gross rent,DP04,Households,84,Housing,OcHUPRnt1,True,True
+GRU500,Less than $500,Gross rent,DP04,Households,85,Housing,OcHUPRnt1,True,True
+GR500t999,$500 to $999,Gross rent,DP04,Households,86,Housing,OcHUPRnt1,True,True
+GR1kt14k,"$1,000 to $1499",Gross rent,DP04,Households,87,Housing,OcHUPRnt1,True,True
+GR15kt19k,"$1,500 to $1,999",Gross rent,DP04,Households,88,Housing,OcHUPRnt1,True,True
+GR20kt24k,"$2,000 to $2,499",Gross rent,DP04,Households,89,Housing,OcHUPRnt1,True,True
+GR25kt29k,"$2,500 to $2,999",Gross rent,DP04,Households,90,Housing,OcHUPRnt1,True,True
+GR3kpl,"$3,000 or more",Gross rent,DP04,Households,91,Housing,OcHUPRnt1,True,True
+MdGR,Median (dollars),Gross rent,"DP04, B25063",Households,92,Housing,,False,False
+MnGR,Mean (dollars),Gross rent,"DP04, B25065",Households,93,Housing,,False,True
+GRnoRntPd,No rent paid,Gross rent,DP04,Households,94,Housing,,False,True
+OcHUPRnt2,Occupied units paying rent (excluding units where GRAPI cannot be computed),Gross rent as a percentage of household income (grapi),DP04,Households,95,Housing,OcHUPRnt2,True,True
+GRPIU15,Less than 15.0 percent,Gross rent as a percentage of household income (grapi),DP04,Households,96,Housing,OcHUPRnt2,True,True
+GRPI15t19,15.0 to 19.9 percent,Gross rent as a percentage of household income (grapi),DP04,Households,97,Housing,OcHUPRnt2,True,True
+GRPI20t24,20.0 to 24.9 percent,Gross rent as a percentage of household income (grapi),DP04,Households,98,Housing,OcHUPRnt2,True,True
+GRPI25t29,25.0 to 29.9 percent,Gross rent as a percentage of household income (grapi),DP04,Households,99,Housing,OcHUPRnt2,True,True
+GRPI30pl,30.0 percent or more,Gross rent as a percentage of household income (grapi),DP04,Households,100,Housing,OcHUPRnt2,True,True
+GRPI50pl,50.0 percent or more,Gross rent as a percentage of household income (grapi),B25070,Households,101,Housing,OcHUPRnt2,True,True
+GRPINtC,Not computed,Gross rent as a percentage of household income (grapi),DP04,Households,102,Housing,,False,True
+HH1,Total households,Household type,DP02,Households,0,Social,HH1,True,True
+Fam1,Family households (families),Household type,B11003,Households,1,Social,HH1,True,True
+FamChU18,With own children under 18 years,Household type,B11003,Households,2,Social,HH1,True,True
+MrdFam,Married-couple family,Household type,B11003,Households,3,Social,HH1,True,True
+MrdChU18,With own children under 18 years,Household type,B11003,Households,4,Social,HH1,True,True
+MHnS,"Male householder, no spouse present, family",Household type,B11003,Households,5,Social,HH1,True,True
+MHnSChU18,With own children under 18 years,Household type,B11003,Households,6,Social,HH1,True,True
+FHnS,"Female householder, no spouse present, family",Household type,B11003,Households,7,Social,HH1,True,True
+FHnSChU18,With own children under 18 years,Household type,B11003,Households,8,Social,HH1,True,True
+NFam1,Nonfamily households,Household type,B11001,Households,9,Social,HH1,True,True
+NFamA,Householder living alone,Household type,B11001,Households,10,Social,HH1,True,True
+NFamA65pl,65 years and over,Household type,DP02,Households,11,Social,HH1,True,True
+HH1plU18,Households with one or more people under 18 years,Household type,DP02,Households,12,Social,HH1,True,True
+HH1pl65pl,Households with one or more people 65 years and over,Household type,DP02,Households,13,Social,HH1,True,True
+AvgHHSz,Average household size,Household type,"DP02, B11002",Households,14,Social,,False,True
+AvgFmSz,Average family size,Household type,"DP02, B11002",Households,15,Social,,False,False
+HHPop,Population in households,Relationship to head of household (householder),DP02,Persons,16,Social,HHPop,True,True
+RshpHHldr,Householder,Relationship to head of household (householder),DP02,Persons,17,Social,HHPop,True,True
+Rshp_Sp,Spouse,Relationship to head of household (householder),DP02,Persons,18,Social,HHPop,True,True
+Rshp_Ch,Child,Relationship to head of household (householder),DP02,Persons,19,Social,HHPop,True,True
+Rshp_OthR,Other relatives,Relationship to head of household (householder),DP02,Persons,20,Social,HHPop,True,True
+Rshp_NR,Nonrelatives,Relationship to head of household (householder),DP02,Persons,21,Social,HHPop,True,True
+Rshp_NRUP,Unmarried partner,Relationship to head of household (householder),DP02,Persons,22,Social,HHPop,True,True
+Rshp_SSUP,Same sex unmarried partner,Relationship to head of household (householder),B09019,Persons,23,Social,HHPop,True,True
+MS_M15pl,Males 15 years and over,Marital status,DP02,Persons,24,Social,MS_M15pl,True,True
+MS_MNvMrd,Never married,Marital status,DP02,Persons,25,Social,MS_M15pl,True,True
+MS_MMrdSp,"Now married, except separated",Marital status,DP02,Persons,26,Social,MS_M15pl,True,True
+MS_MSp,Separated,Marital status,DP02,Persons,27,Social,MS_M15pl,True,True
+MS_MWd,Widowed,Marital status,DP02,Persons,28,Social,MS_M15pl,True,True
+MS_MDvcd,Divorced,Marital status,DP02,Persons,29,Social,MS_M15pl,True,True
+MS_F15pl,Females 15 years and over,Marital status,DP02,Persons,30,Social,MS_F15pl,True,True
+MS_FNvMrd,Never married,Marital status,DP02,Persons,31,Social,MS_F15pl,True,True
+MS_FMrdSp,"Now married, except separated",Marital status,DP02,Persons,32,Social,MS_F15pl,True,True
+MS_FSp,Separated,Marital status,DP02,Persons,33,Social,MS_F15pl,True,True
+MS_FWd,Widowed,Marital status,DP02,Persons,34,Social,MS_F15pl,True,True
+MS_FDvcd,Divorced,Marital status,DP02,Persons,35,Social,MS_F15pl,True,True
+GpLGcU18,Number of grandparents living with own grandchildren under 18 years,Grandparents,DP02,Persons,36,Social,GpLGcU18,True,True
+GpRGcU18,Responsible for grandchildren,Grandparents,DP02,Persons,37,Social,GpLGcU18,True,True
+Pop3plEn,Population 3 years and over enrolled in school,School enrollment,DP02,Persons,38,Social,Pop3plEn,True,True
+SE_NScPSc,"Nursery school, preschool",School enrollment,DP02,Persons,39,Social,Pop3plEn,True,True
+SE_Kndgtn,Kindergarten,School enrollment,DP02,Persons,40,Social,Pop3plEn,True,True
+SE_G1t8,Elementary school (grades 1-8),School enrollment,DP02,Persons,41,Social,Pop3plEn,True,True
+SE_G9t12,High school (grades 9-12),School enrollment,DP02,Persons,42,Social,Pop3plEn,True,True
+SE_ClgGSc,College or graduate school,School enrollment,DP02,Persons,43,Social,Pop3plEn,True,True
+EA_P25pl,Population 25 years and over,Educational attainment (highest grade completed),DP02,Persons,44,Social,EA_P25pl,True,True
+EA_LT9G,Less than 9th grade,Educational attainment (highest grade completed),DP02,Persons,45,Social,EA_P25pl,True,True
+EA_9t12ND,"9th to 12th grade, no diploma",Educational attainment (highest grade completed),DP02,Persons,46,Social,EA_P25pl,True,True
+EA_HScGrd,High school graduate (includes equivalency),Educational attainment (highest grade completed),DP02,Persons,47,Social,EA_P25pl,True,True
+EA_SClgND,"Some college, no degree",Educational attainment (highest grade completed),DP02,Persons,48,Social,EA_P25pl,True,True
+EA_AscD,Associate's degree,Educational attainment (highest grade completed),DP02,Persons,49,Social,EA_P25pl,True,True
+EA_BchD,Bachelor's degree,Educational attainment (highest grade completed),DP02,Persons,50,Social,EA_P25pl,True,True
+EA_GrdPfD,Graduate or professional degree,Educational attainment (highest grade completed),DP02,Persons,51,Social,EA_P25pl,True,True
+EA_LTHSGr,Less than high school graduate,Educational attainment (highest grade completed),DP02,Persons,52,Social,EA_P25pl,True,True
+EA_BchDH,Bachelor's degree or higher,Educational attainment (highest grade completed),DP02,Persons,53,Social,EA_P25pl,True,True
+CvPop18pl,Civilian population 18 years and over,Veteran status,DP02,Persons,54,Social,CvPop18pl,True,True
+CvVet18pl,Veterans,Veteran status,DP02,Persons,55,Social,CvPop18pl,True,True
+CvNIPop1,Total civilian noninstitutionalized population,Disability status of the civilian noninstitutionalized population,DP02,Persons,56,Social,CvNIPop1,True,True
+CvNID,With a disability,Disability status of the civilian noninstitutionalized population,DP02,Persons,57,Social,CvNIPop1,True,True
+CvNID_Hrg,With a hearing difficulty,Disability status of the civilian noninstitutionalized population,S1810,Persons,58,Social,CvNIPop1,True,True
+CvNID_Vsn,With a vision difficulty,Disability status of the civilian noninstitutionalized population,S1810,Persons,59,Social,CvNIPop1,True,True
+CvNID_Cog,With a cognitive difficulty,Disability status of the civilian noninstitutionalized population,S1810,Persons,60,Social,CvNIPop1,True,True
+CvNID_Amb,With an ambulatory difficulty,Disability status of the civilian noninstitutionalized population,S1810,Persons,61,Social,CvNIPop1,True,True
+CvNID_SCr,With a self-care difficulty,Disability status of the civilian noninstitutionalized population,S1810,Persons,62,Social,CvNIPop1,True,True
+CvNID_ILD,With an independent living difficulty,Disability status of the civilian noninstitutionalized population,S1810,Persons,63,Social,CvNIPop1,True,True
+CvNIU18_1,Under 18 years,Disability status of the civilian noninstitutionalized population,DP02,Persons,64,Social,CvNIU18_1,True,True
+CvNIU18D,With a disability,Disability status of the civilian noninstitutionalized population,DP02,Persons,65,Social,CvNIU18_1,True,True
+CU18DHrg,With a hearing difficulty,Disability status of the civilian noninstitutionalized population,S1810,Persons,66,Social,CvNIU18_1,True,True
+CU18DVsn,With a vision difficulty,Disability status of the civilian noninstitutionalized population,S1810,Persons,67,Social,CvNIU18_1,True,True
+CU18DCog,With a cognitive difficulty,Disability status of the civilian noninstitutionalized population,S1810,Persons,68,Social,CvNIU18_1,True,True
+CU18DAmb,With an ambulatory difficulty,Disability status of the civilian noninstitutionalized population,S1810,Persons,69,Social,CvNIU18_1,True,True
+CU18DSCr,With a self-care difficulty,Disability status of the civilian noninstitutionalized population,S1810,Persons,70,Social,CvNIU18_1,True,True
+CNI1864_1,18 to 64 years,Disability status of the civilian noninstitutionalized population,DP02,Persons,71,Social,CNI1864_1,True,True
+CNI18t64D,With a disability,Disability status of the civilian noninstitutionalized population,DP02,Persons,72,Social,CNI1864_1,True,True
+C1864DHrg,With a hearing difficulty,Disability status of the civilian noninstitutionalized population,S1810,Persons,73,Social,CNI1864_1,True,True
+C1864DVsn,With a vision difficulty,Disability status of the civilian noninstitutionalized population,S1810,Persons,74,Social,CNI1864_1,True,True
+C1864DCog,With a cognitive difficulty,Disability status of the civilian noninstitutionalized population,S1810,Persons,75,Social,CNI1864_1,True,True
+C1864DAmb,With an ambulatory difficulty,Disability status of the civilian noninstitutionalized population,S1810,Persons,76,Social,CNI1864_1,True,True
+C1864DSCr,With a self-care difficulty,Disability status of the civilian noninstitutionalized population,S1810,Persons,77,Social,CNI1864_1,True,True
+C1864DILD,With an independent living difficulty,Disability status of the civilian noninstitutionalized population,S1810,Persons,78,Social,CNI1864_1,True,True
+CvNI65pl,65 years and over,Disability status of the civilian noninstitutionalized population,DP02,Persons,79,Social,CvNI65pl,True,True
+CvNI65plD,With a disability,Disability status of the civilian noninstitutionalized population,DP02,Persons,80,Social,CvNI65pl,True,True
+C65plDHrg,With a hearing difficulty,Disability status of the civilian noninstitutionalized population,S1810,Persons,81,Social,CvNI65pl,True,True
+C65plDVsn,With a vision difficulty,Disability status of the civilian noninstitutionalized population,S1810,Persons,82,Social,CvNI65pl,True,True
+C65plDCog,With a cognitive difficulty,Disability status of the civilian noninstitutionalized population,S1810,Persons,83,Social,CvNI65pl,True,True
+C65plDAmb,With an ambulatory difficulty,Disability status of the civilian noninstitutionalized population,S1810,Persons,84,Social,CvNI65pl,True,True
+C65plDSCr,With a self-care difficulty,Disability status of the civilian noninstitutionalized population,S1810,Persons,85,Social,CvNI65pl,True,True
+C65plDILD,With an independent living difficulty,Disability status of the civilian noninstitutionalized population,S1810,Persons,86,Social,CvNI65pl,True,True
+Pop1pl,Population 1 year and over,Residence 1 year ago,DP02,Persons,87,Social,Pop1pl,True,True
+SmHs,Same house,Residence 1 year ago,DP02,Persons,88,Social,Pop1pl,True,True
+DfHs1,Lived in a different house,Residence 1 year ago,DP02,Persons,89,Social,Pop1pl,True,True
+DfHs2,Population 1 year and over that lived in a different house,Residence 1 year ago,DP02,Persons,90,Social,DfHs2,True,True
+DfHsUS,Different house in the U.S.,Residence 1 year ago,DP02,Persons,91,Social,DfHs2,True,True
+DfHsSmCnt,Same county,Residence 1 year ago,DP02,Persons,92,Social,DfHs2,True,True
+DfHsDfCnt,Different county,Residence 1 year ago,DP02,Persons,93,Social,DfHs2,True,True
+DHDfCntNYC,Within New York City,Residence 1 year ago,B07204,Persons,94,Social,DfHs2,True,True
+DHnoNYC,Outside New York City,Residence 1 year ago,B07204,Persons,95,Social,DfHs2,True,True
+Abroad,Abroad,Residence 1 year ago,DP02,Persons,96,Social,DfHs2,True,True
+Pop_4,Total population,Place of birth,DP02,Persons,97,Social,Pop_4,True,True
+Ntv,Native,Place of birth,DP02,Persons,98,Social,Pop_4,True,True
+NtvUS,Born in United States,Place of birth,DP02,Persons,99,Social,Pop_4,True,True
+NtvNYS,Born in New York State,Place of birth,DP02,Persons,100,Social,Pop_4,True,True
+NtvNotNYS,Born outside New York State,Place of birth,DP02,Persons,101,Social,Pop_4,True,True
+NtvPRUSAb,"Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)",Place of birth,DP02,Persons,102,Social,Pop_4,True,True
+Fb1,Foreign-born,Place of birth,DP02,Persons,103,Social,Pop_4,True,True
+Fb2,Foreign-born,Place of birth,DP02,Persons,104,Social,Fb2,True,True
+Eur,Europe,Place of birth,B05006,Persons,105,Social,Fb2,True,True
+NEur,Northern Europe,Place of birth,B05006,Persons,106,Social,Fb2,True,True
+Denmark,Denmark,Place of birth,B05006,Persons,107,Social,Fb2,True,True
+Ireland,Ireland ,Place of birth,B05006,Persons,108,Social,Fb2,True,True
+Norway,Norway,Place of birth,B05006,Persons,109,Social,Fb2,True,True
+Sweden,Sweden,Place of birth,B05006,Persons,110,Social,Fb2,True,True
+UntdKgdm,United Kingdom (inc. Crown Dependencies),Place of birth,B05006,Persons,111,Social,Fb2,True,True
+UKnoEngSc,"United Kingdom, excluding England and Scotland ",Place of birth,B05006,Persons,112,Social,Fb2,True,True
+Eng,England ,Place of birth,B05006,Persons,113,Social,Fb2,True,True
+Scot,Scotland ,Place of birth,B05006,Persons,114,Social,Fb2,True,True
+ONEur,Other Northern Europe ,Place of birth,B05006,Persons,115,Social,Fb2,True,True
+WEur,Western Europe,Place of birth,B05006,Persons,116,Social,Fb2,True,True
+Austria,Austria ,Place of birth,B05006,Persons,117,Social,Fb2,True,True
+Belgium,Belgium,Place of birth,B05006,Persons,118,Social,Fb2,True,True
+France,France ,Place of birth,B05006,Persons,119,Social,Fb2,True,True
+Germany,Germany ,Place of birth,B05006,Persons,120,Social,Fb2,True,True
+Nthrlds,Netherlands ,Place of birth,B05006,Persons,121,Social,Fb2,True,True
+Switzrld,Switzerland,Place of birth,B05006,Persons,122,Social,Fb2,True,True
+OWEur,Other Western Europe ,Place of birth,B05006,Persons,123,Social,,False,True
+SEur,Southern Europe,Place of birth,B05006,Persons,124,Social,Fb2,True,True
+Greece,Greece ,Place of birth,B05006,Persons,125,Social,Fb2,True,True
+Italy,Italy ,Place of birth,B05006,Persons,126,Social,Fb2,True,True
+Portugal,Portugal ,Place of birth,B05006,Persons,127,Social,Fb2,True,True
+Azores,Azores Islands,Place of birth,B05006,Persons,128,Social,,False,True
+Spain,Spain ,Place of birth,B05006,Persons,129,Social,Fb2,True,True
+OSEur,Other Southern Europe ,Place of birth,B05006,Persons,130,Social,Fb2,True,True
+EEur,Eastern Europe,Place of birth,B05006,Persons,131,Social,Fb2,True,True
+Albania,Albania,Place of birth,B05006,Persons,132,Social,Fb2,True,True
+Belarus,Belarus,Place of birth,B05006,Persons,133,Social,Fb2,True,True
+BosniaH,Bosnia and Herzegovina ,Place of birth,B05006,Persons,134,Social,Fb2,True,True
+Bulgaria,Bulgaria,Place of birth,B05006,Persons,135,Social,Fb2,True,True
+Croatia,Croatia ,Place of birth,B05006,Persons,136,Social,Fb2,True,True
+Czchslv,Czechoslovakia (includes Czech Republic and Slovakia) ,Place of birth,B05006,Persons,137,Social,Fb2,True,True
+Hungary,Hungary ,Place of birth,B05006,Persons,138,Social,Fb2,True,True
+Latvia,Latvia,Place of birth,B05006,Persons,139,Social,Fb2,True,True
+Lthuania,Lithuania,Place of birth,B05006,Persons,140,Social,Fb2,True,True
+Moldova,Moldova,Place of birth,B05006,Persons,141,Social,Fb2,True,True
+Mcdonia,North Macedonia (Macedonia),Place of birth,B05006,Persons,142,Social,Fb2,True,True
+Poland,Poland ,Place of birth,B05006,Persons,143,Social,Fb2,True,True
+Romania,Romania ,Place of birth,B05006,Persons,144,Social,Fb2,True,True
+Russia,Russia ,Place of birth,B05006,Persons,145,Social,Fb2,True,True
+Serbia,Serbia,Place of birth,B05006,Persons,146,Social,Fb2,True,True
+Ukraine,Ukraine,Place of birth,B05006,Persons,147,Social,Fb2,True,True
+OEEur,Other Eastern Europe ,Place of birth,B05006,Persons,148,Social,Fb2,True,True
+EurNEC,"Europe, n.e.c. ",Place of birth,B05006,Persons,149,Social,Fb2,True,True
+Asia,Asia,Place of birth,B05006,Persons,150,Social,Fb2,True,True
+EAsia,Eastern Asia,Place of birth,B05006,Persons,151,Social,Fb2,True,True
+China,China,Place of birth,B05006,Persons,152,Social,Fb2,True,True
+ChNoHKTwn,"China, excluding Hong Kong and Taiwan ",Place of birth,B05006,Persons,153,Social,Fb2,True,True
+HongKong,Hong Kong ,Place of birth,B05006,Persons,154,Social,Fb2,True,True
+Taiwan,Taiwan ,Place of birth,B05006,Persons,155,Social,Fb2,True,True
+Japan,Japan ,Place of birth,B05006,Persons,156,Social,Fb2,True,True
+Korea,Korea ,Place of birth,B05006,Persons,157,Social,Fb2,True,True
+OEAsia,Other Eastern Asia ,Place of birth,B05006,Persons,158,Social,Asia,True,True
+SCAsia,South Central Asia,Place of birth,B05006,Persons,159,Social,Fb2,True,True
+Afghan,Afghanistan ,Place of birth,B05006,Persons,160,Social,Fb2,True,True
+Bngldsh,Bangladesh ,Place of birth,B05006,Persons,161,Social,Fb2,True,True
+Bhutan,Bhutan,Place of birth,B05006,Persons,162,Social,,False,True
+India,India ,Place of birth,B05006,Persons,163,Social,Fb2,True,True
+Iran,Iran ,Place of birth,B05006,Persons,164,Social,Fb2,True,True
+Kzkhstan,Kazakhstan,Place of birth,B05006,Persons,165,Social,Fb2,True,True
+Nepal,Nepal,Place of birth,B05006,Persons,166,Social,Fb2,True,True
+Pakistan,Pakistan ,Place of birth,B05006,Persons,167,Social,Fb2,True,True
+SriLanka,Sri Lanka,Place of birth,B05006,Persons,168,Social,Fb2,True,True
+Uzbkstan,Uzbekistan,Place of birth,B05006,Persons,169,Social,Fb2,True,True
+OSCAsia,Other South Central Asia,Place of birth,B05006,Persons,170,Social,Fb2,True,True
+SEAsia,South Eastern Asia,Place of birth,B05006,Persons,171,Social,Fb2,True,True
+Burma,Burma (Myanmar),Place of birth,B05006,Persons,172,Social,Fb2,True,True
+Cambodia,Cambodia ,Place of birth,B05006,Persons,173,Social,,False,True
+Indnsia,Indonesia ,Place of birth,B05006,Persons,174,Social,Fb2,True,True
+Laos,Laos ,Place of birth,B05006,Persons,175,Social,Fb2,True,True
+Malaysia,Malaysia,Place of birth,B05006,Persons,176,Social,Fb2,True,True
+Philipns,Philippines ,Place of birth,B05006,Persons,177,Social,Fb2,True,True
+Sngapore,Singapore,Place of birth,B05006,Persons,178,Social,Fb2,True,True
+Thailand,Thailand ,Place of birth,B05006,Persons,179,Social,Fb2,True,True
+Vietnam,Vietnam ,Place of birth,B05006,Persons,180,Social,Fb2,True,True
+OSEAsia,Other South Eastern Asia ,Place of birth,B05006,Persons,181,Social,,False,True
+WAsia,Western Asia,Place of birth,B05006,Persons,182,Social,Fb2,True,True
+Armenia,Armenia ,Place of birth,B05006,Persons,183,Social,Fb2,True,True
+Azerbjn,Azerbaijan,Place of birth,B05006,Persons,184,Social,Fb2,True,True
+Georgia,Georgia,Place of birth,B05006,Persons,185,Social,Fb2,True,True
+Iraq,Iraq ,Place of birth,B05006,Persons,186,Social,Fb2,True,True
+Israel,Israel ,Place of birth,B05006,Persons,187,Social,Fb2,True,True
+Jordan,Jordan,Place of birth,B05006,Persons,188,Social,Fb2,True,True
+Kuwait,Kuwait,Place of birth,B05006,Persons,189,Social,Fb2,True,True
+Lebanon,Lebanon ,Place of birth,B05006,Persons,190,Social,Fb2,True,True
+SaudiAr,Saudi Arabia,Place of birth,B05006,Persons,191,Social,Fb2,True,True
+Syria,Syria ,Place of birth,B05006,Persons,192,Social,Fb2,True,True
+Turkey,Turkey ,Place of birth,B05006,Persons,193,Social,Fb2,True,True
+UArEmir,United Arab Emirates,Place of birth,B05006,Persons,194,Social,Asia,True,True
+Yemen,Yemen,Place of birth,B05006,Persons,195,Social,Fb2,True,True
+OWAsia,Other Western Asia ,Place of birth,B05006,Persons,196,Social,Fb2,True,True
+AsiaNEC,"Asia,n.e.c. ",Place of birth,B05006,Persons,197,Social,Fb2,True,True
+Afr,Africa,Place of birth,B05006,Persons,198,Social,Fb2,True,True
+EAfr,Eastern Africa,Place of birth,B05006,Persons,199,Social,Fb2,True,True
+Eritrea,Eritrea,Place of birth,B05006,Persons,200,Social,Fb2,True,True
+Ethiopia,Ethiopia ,Place of birth,B05006,Persons,201,Social,Fb2,True,True
+Kenya,Kenya ,Place of birth,B05006,Persons,202,Social,Fb2,True,True
+Somalia,Somalia,Place of birth,B05006,Persons,203,Social,Fb2,True,True
+Tanzania,Tanzania,Place of birth,B05006,Persons,204,Social,Fb2,True,True
+Uganda,Uganda,Place of birth,B05006,Persons,205,Social,Fb2,True,True
+Zimbabwe,Zimbabwe,Place of birth,B05006,Persons,206,Social,Fb2,True,True
+OEAfr,Other Eastern Africa ,Place of birth,B05006,Persons,207,Social,Fb2,True,True
+MAfr,Middle Africa,Place of birth,B05006,Persons,208,Social,Fb2,True,True
+Cameroon,Cameroon           ,Place of birth,B05006,Persons,209,Social,Fb2,True,True
+Congo,Congo,Place of birth,B05006,Persons,210,Social,Fb2,True,True
+DRCongo,Democratic Republic of Congo (Zaire),Place of birth,B05006,Persons,211,Social,Fb2,True,True
+OMAfr,Other Middle Africa,Place of birth,B05006,Persons,212,Social,Fb2,True,True
+NAfr,Northern Africa,Place of birth,B05006,Persons,213,Social,Fb2,True,True
+Algeria,Algeria,Place of birth,B05006,Persons,214,Social,Fb2,True,True
+Egypt,Egypt ,Place of birth,B05006,Persons,215,Social,Fb2,True,True
+Morocco,Morocco,Place of birth,B05006,Persons,216,Social,Fb2,True,True
+Sudan,Sudan,Place of birth,B05006,Persons,217,Social,Fb2,True,True
+ONAfr,Other Northern Africa ,Place of birth,B05006,Persons,218,Social,,False,True
+SthrnAfr,Southern Africa,Place of birth,B05006,Persons,219,Social,Fb2,True,True
+SthAfrca,South Africa ,Place of birth,B05006,Persons,220,Social,Fb2,True,True
+OSthrnAfr,Other Southern Africa ,Place of birth,B05006,Persons,221,Social,,False,True
+WAfr,Western Africa,Place of birth,B05006,Persons,222,Social,Fb2,True,True
+CaboVerd,Cabo Verde,Place of birth,B05006,Persons,223,Social,,False,True
+Ghana,Ghana ,Place of birth,B05006,Persons,224,Social,Fb2,True,True
+IvoryCst,Ivory Coast,Place of birth,B05006,Persons,225,Social,Fb2,True,True
+Liberia,Liberia ,Place of birth,B05006,Persons,226,Social,Fb2,True,True
+Nigeria,Nigeria ,Place of birth,B05006,Persons,227,Social,Fb2,True,True
+Senegal,Senegal,Place of birth,B05006,Persons,228,Social,Fb2,True,True
+SierraL,Sierra Leone,Place of birth,B05006,Persons,229,Social,Fb2,True,True
+Togo,Togo,Place of birth,B05006,Persons,230,Social,Fb2,True,True
+OWAfr,Other Western Africa ,Place of birth,B05006,Persons,231,Social,Fb2,True,True
+AfrNEC,"Africa, n.e.c. ",Place of birth,B05006,Persons,232,Social,Fb2,True,True
+Oceania,Oceania,Place of birth,B05006,Persons,233,Social,Fb2,True,True
+AusNZSbR,Australia and New Zealand Subregion:,Place of birth,B05006,Persons,234,Social,Fb2,True,True
+Austrlia,Australia ,Place of birth,B05006,Persons,235,Social,Fb2,True,True
+OAusNZSbR,Other Australian and New Zealand Subregion ,Place of birth,B05006,Persons,236,Social,Fb2,True,True
+Fiji,Fiji,Place of birth,B05006,Persons,237,Social,,False,True
+MrshlIsl,Marshall Islands,Place of birth,B05006,Persons,238,Social,,False,True
+Microns,Micronesia,Place of birth,B05006,Persons,239,Social,,False,True
+OcniaNEC,"Oceania, n.e.c. ",Place of birth,B05006,Persons,240,Social,Fb2,True,True
+Amricas,Americas,Place of birth,B05006,Persons,241,Social,Fb2,True,True
+LAm,Latin America,Place of birth,B05006,Persons,242,Social,Fb2,True,True
+Carib,Caribbean,Place of birth,B05006,Persons,243,Social,Fb2,True,True
+Bahamas,Bahamas,Place of birth,B05006,Persons,244,Social,Fb2,True,True
+Barbados,Barbados ,Place of birth,B05006,Persons,245,Social,Fb2,True,True
+Cuba,Cuba ,Place of birth,B05006,Persons,246,Social,Fb2,True,True
+Dominica,Dominica ,Place of birth,B05006,Persons,247,Social,Fb2,True,True
+DomRep,Dominican Republic ,Place of birth,B05006,Persons,248,Social,Fb2,True,True
+Grenada,Grenada,Place of birth,B05006,Persons,249,Social,Fb2,True,True
+Haiti,Haiti ,Place of birth,B05006,Persons,250,Social,Fb2,True,True
+Jamaica,Jamaica ,Place of birth,B05006,Persons,251,Social,Fb2,True,True
+StLucia,St. Lucia,Place of birth,B05006,Persons,252,Social,Fb2,True,True
+StVGren,St. Vincent and the Grenadines,Place of birth,B05006,Persons,253,Social,LAm,True,True
+TrAndTob,Trinidad and Tobago ,Place of birth,B05006,Persons,254,Social,Fb2,True,True
+WIndies,West Indies,Place of birth,B05006,Persons,255,Social,Fb2,True,True
+OCarib,Other Caribbean ,Place of birth,B05006,Persons,256,Social,Fb2,True,True
+CAm,Central America,Place of birth,B05006,Persons,257,Social,Fb2,True,True
+Belize,Belize,Place of birth,B05006,Persons,258,Social,Fb2,True,True
+CstaRica,Costa Rica ,Place of birth,B05006,Persons,259,Social,Fb2,True,True
+ElSlvdr,El Salvador ,Place of birth,B05006,Persons,260,Social,Fb2,True,True
+Guatmala,Guatemala ,Place of birth,B05006,Persons,261,Social,Fb2,True,True
+Honduras,Honduras ,Place of birth,B05006,Persons,262,Social,Fb2,True,True
+Mexico,Mexico ,Place of birth,B05006,Persons,263,Social,Fb2,True,True
+Nicargua,Nicaragua ,Place of birth,B05006,Persons,264,Social,Fb2,True,True
+Panama,Panama ,Place of birth,B05006,Persons,265,Social,Fb2,True,True
+OCAm,Other Central America ,Place of birth,B05006,Persons,266,Social,,False,True
+SAm,South America,Place of birth,B05006,Persons,267,Social,Fb2,True,True
+Argntina,Argentina ,Place of birth,B05006,Persons,268,Social,Fb2,True,True
+Bolivia,Bolivia ,Place of birth,B05006,Persons,269,Social,LAm,True,True
+Brazil,Brazil ,Place of birth,B05006,Persons,270,Social,Fb2,True,True
+Chile,Chile ,Place of birth,B05006,Persons,271,Social,Fb2,True,True
+Colombia,Colombia ,Place of birth,B05006,Persons,272,Social,Fb2,True,True
+Ecuador,Ecuador ,Place of birth,B05006,Persons,273,Social,Fb2,True,True
+Guyana,Guyana ,Place of birth,B05006,Persons,274,Social,Fb2,True,True
+Peru,Peru ,Place of birth,B05006,Persons,275,Social,Fb2,True,True
+Uruguay,Uruguay,Place of birth,B05006,Persons,276,Social,Fb2,True,True
+Vnzuela,Venezuela ,Place of birth,B05006,Persons,277,Social,Fb2,True,True
+OSAm,Other South America,Place of birth,B05006,Persons,278,Social,Fb2,True,True
+NAm,Northern America,Place of birth,B05006,Persons,279,Social,Fb2,True,True
+Canada,Canada ,Place of birth,B05006,Persons,280,Social,Fb2,True,True
+ONAm,Other Northern America ,Place of birth,B05006,Persons,281,Social,Fb2,True,True
+Fb3,Foreign-born population,U.s. citizenship status,DP02,Persons,282,Social,Fb3,True,True
+FbNtlzd,Naturalized U.S. citizen,U.s. citizenship status,DP02,Persons,283,Social,Fb3,True,True
+FbNotCzn,Not a U.S. citizen,U.s. citizenship status,DP02,Persons,284,Social,Fb3,True,True
+Fb4,Foreign-born population,Year of entry,DP02,Persons,285,Social,Fb4,True,True
+Fb2010Ltr,Entered 2010 or later,Year of entry,B05005,Persons,286,Social,Fb4,True,True
+Pop5pl1,Population 5 years and over,Language spoken at home,DP02,Persons,287,Social,Pop5pl1,True,True
+EngOnly1,English only,Language spoken at home,DP02,Persons,288,Social,Pop5pl1,True,True
+LgOEng1,Language other than English,Language spoken at home,DP02,Persons,289,Social,Pop5pl1,True,True
+LgOEnLEP1,"Speak English less than ""very well""",Language spoken at home,DP02,Persons,290,Social,Pop5pl1,True,True
+LgSp1,Spanish,Language spoken at home,C16001,Persons,291,Social,LgSp1,True,True
+LgSpLEP1,"Speak English less than ""very well""",Language spoken at home,C16001,Persons,292,Social,LgSp1,True,True
+LgFr1,"French, Haitian, or Cajun",Language spoken at home,C16001,Persons,293,Social,LgFr1,True,True
+LgFrLEP1,"Speak English less than ""very well""",Language spoken at home,C16001,Persons,294,Social,LgFr1,True,True
+LgGrm1,German or other West Germanic languages,Language spoken at home,C16001,Persons,295,Social,LgGrm1,True,True
+LgGrmLEP1,"Speak English less than ""very well""",Language spoken at home,C16001,Persons,296,Social,LgGrm1,True,True
+LgRusPol1,"Russian, Polish, or other Slavic languages",Language spoken at home,C16001,Persons,297,Social,LgRusPol1,True,True
+LgRsPLEP1,"Speak English less than ""very well""",Language spoken at home,C16001,Persons,298,Social,LgRusPol1,True,True
+LgOIEu1,Other Indo-European languages,Language spoken at home,C16001,Persons,299,Social,LgOIEu1,True,True
+LgOIELEP1,"Speak English less than ""very well""",Language spoken at home,C16001,Persons,300,Social,LgOIEu1,True,True
+LgKor1,Korean,Language spoken at home,C16001,Persons,301,Social,LgKor1,True,True
+LgKorLEP1,"Speak English less than ""very well""",Language spoken at home,C16001,Persons,302,Social,LgKor1,True,True
+LgChi1,"Chinese (incl. Mandarin, Catonese)",Language spoken at home,C16001,Persons,303,Social,LgChi1,True,True
+LgChiLEP1,"Speak English less than ""very well""",Language spoken at home,C16001,Persons,304,Social,LgChi1,True,True
+LgViet1,Vietnamese,Language spoken at home,C16001,Persons,305,Social,LgViet1,True,True
+LgVieLEP1,"Speak English less than ""very well""",Language spoken at home,C16001,Persons,306,Social,LgViet1,True,True
+LgTag1,Tagalog,Language spoken at home,C16001,Persons,307,Social,LgTag1,True,True
+LgTagLEP1,"Speak English less than ""very well""",Language spoken at home,C16001,Persons,308,Social,LgTag1,True,True
+LgOAsn1,Other Asian and Pacific Island languages,Language spoken at home,C16001,Persons,309,Social,LgOAsn1,True,True
+LgOAnLEP1,"Speak English less than ""very well""",Language spoken at home,C16001,Persons,310,Social,LgOAsn1,True,True
+LgArab1,Arabic,Language spoken at home,C16001,Persons,311,Social,LgArab1,True,True
+LgArbLEP1,"Speak English less than ""very well""",Language spoken at home,C16001,Persons,312,Social,LgArab1,True,True
+LgOLg1,Other and unspecified languages,Language spoken at home,C16001,Persons,313,Social,LgOLg1,True,True
+LgOLgLEP1,"Speak English less than ""very well""",Language spoken at home,C16001,Persons,314,Social,LgOLg1,True,True
+Pop5pl2,Population 5 years and over,Language spoken at home,C16001,Persons,315,Social,Pop5pl2,True,True
+EngOnly2,English only,Language spoken at home,C16001,Persons,316,Social,Pop5pl2,True,True
+LgOEng2,Language other than English,Language spoken at home,C16001,Persons,317,Social,Pop5pl2,True,True
+LgSp2,Spanish,Language spoken at home,C16001,Persons,318,Social,Pop5pl2,True,True
+LgFr2,"French, Haitian, or Cajun",Language spoken at home,C16001,Persons,319,Social,Pop5pl2,True,True
+LgGrm2,German or other West Germanic languages,Language spoken at home,C16001,Persons,320,Social,Pop5pl2,True,True
+LgRusPol2,"Russian, Polish, or other Slavic languages",Language spoken at home,C16001,Persons,321,Social,Pop5pl2,True,True
+LgOIEu2,Other Indo-European languages,Language spoken at home,C16001,Persons,322,Social,Pop5pl2,True,True
+LgKor2,Korean,Language spoken at home,C16001,Persons,323,Social,Pop5pl2,True,True
+LgChi2,"Chinese (incl. Mandarin, Catonese)",Language spoken at home,C16001,Persons,324,Social,Pop5pl2,True,True
+LgViet2,Vietnamese,Language spoken at home,C16001,Persons,325,Social,Pop5pl2,True,True
+LgTag2,Tagalog,Language spoken at home,C16001,Persons,326,Social,Pop5pl2,True,True
+LgOAsn2,Other Asian and Pacific Island languages,Language spoken at home,C16001,Persons,327,Social,Pop5pl2,True,True
+LgArab2,Arabic,Language spoken at home,C16001,Persons,328,Social,Pop5pl2,True,True
+LgOLg2,Other and unspecified languages,Language spoken at home,C16001,Persons,329,Social,Pop5pl2,True,True
+LgOEnLEP2,"Speak English less than ""very well""",Language spoken at home,C16001,Persons,330,Social,LgOEnLEP2,True,True
+LgSpLEP2,Spanish,Language spoken at home,C16001,Persons,331,Social,LgOEnLEP2,True,True
+LgFrLEP2,"French, Haitian, or Cajun",Language spoken at home,C16001,Persons,332,Social,LgOEnLEP2,True,True
+LgGrmLEP2,German or other West Germanic languages,Language spoken at home,C16001,Persons,333,Social,LgOEnLEP2,True,True
+LgRsPLEP2,"Russian, Polish, or other Slavic languages",Language spoken at home,C16001,Persons,334,Social,LgOEnLEP2,True,True
+LgOIELEP2,Other Indo-European languages,Language spoken at home,C16001,Persons,335,Social,LgOEnLEP2,True,True
+LgKorLEP2,Korean,Language spoken at home,C16001,Persons,336,Social,LgOEnLEP2,True,True
+LgChiLEP2,"Chinese (incl. Mandarin, Catonese)",Language spoken at home,C16001,Persons,337,Social,LgOEnLEP2,True,True
+LgVieLEP2,Vietnamese,Language spoken at home,C16001,Persons,338,Social,LgSpLEP2,True,True
+LgTagLEP2,Tagalog,Language spoken at home,C16001,Persons,339,Social,LgOEnLEP2,True,True
+LgOAnLEP2,Other Asian and Pacific Island languages,Language spoken at home,C16001,Persons,340,Social,LgOEnLEP2,True,True
+LgArbLEP2,Arabic,Language spoken at home,C16001,Persons,341,Social,LgOEnLEP2,True,True
+LgOLgLEP2,Other and unspecified languages,Language spoken at home,C16001,Persons,342,Social,LgOEnLEP2,True,True
+Pop_5,Total population,Ancestry,DP02,Persons,343,Social,Pop_5,True,True
+Afg,Afghan ,Ancestry,B04006,Persons,344,Social,Pop_5,True,True
+Alb,Albanian ,Ancestry,B04006,Persons,345,Social,Pop_5,True,True
+Alsatn,Alsatian ,Ancestry,B04006,Persons,346,Social,Pop_5,True,True
+Amercn,American ,Ancestry,B04006,Persons,347,Social,Pop_5,True,True
+Arab,Arab,Ancestry,B04006,Persons,348,Social,Pop_5,True,True
+Egyptn,Egyptian ,Ancestry,B04006,Persons,349,Social,Pop_5,True,True
+Iraqi,Iraqi ,Ancestry,B04006,Persons,350,Social,Pop_5,True,True
+Jrdnian,Jordanian ,Ancestry,B04006,Persons,351,Social,Pop_5,True,True
+Lebanese,Lebanese ,Ancestry,B04006,Persons,352,Social,Pop_5,True,True
+Moroccan,Moroccan ,Ancestry,B04006,Persons,353,Social,Pop_5,True,True
+Palstnian,Palestinian ,Ancestry,B04006,Persons,354,Social,Pop_5,True,True
+Syrian,Syrian ,Ancestry,B04006,Persons,355,Social,Pop_5,True,True
+ArabSub,Arab ,Ancestry,B04006,Persons,356,Social,Pop_5,True,True
+OArab,Other Arab ,Ancestry,B04006,Persons,357,Social,Pop_5,True,True
+Armenian,Armenian ,Ancestry,B04006,Persons,358,Social,Pop_5,True,True
+AsyrChldS,Assyrian/Chaldean/Syriac ,Ancestry,B04006,Persons,359,Social,Pop_5,True,True
+Austrln,Australian ,Ancestry,B04006,Persons,360,Social,Pop_5,True,True
+Austrian,Austrian ,Ancestry,B04006,Persons,361,Social,Pop_5,True,True
+Basque,Basque ,Ancestry,B04006,Persons,362,Social,Pop_5,True,True
+Belgian,Belgian ,Ancestry,B04006,Persons,363,Social,Pop_5,True,True
+Brzlian,Brazilian ,Ancestry,B04006,Persons,364,Social,Pop_5,True,True
+British,British ,Ancestry,B04006,Persons,365,Social,Pop_5,True,True
+Bulgrian,Bulgarian ,Ancestry,B04006,Persons,366,Social,Pop_5,True,True
+Cajun,Cajun ,Ancestry,B04006,Persons,367,Social,Pop_5,True,True
+Canadian,Canadian ,Ancestry,B04006,Persons,368,Social,Pop_5,True,True
+CarpRusn,Carpatho Rusyn ,Ancestry,B04006,Persons,369,Social,,False,True
+Celtic,Celtic ,Ancestry,B04006,Persons,370,Social,Pop_5,True,True
+Croatian,Croatian ,Ancestry,B04006,Persons,371,Social,Pop_5,True,True
+Cypriot,Cypriot ,Ancestry,B04006,Persons,372,Social,Pop_5,True,True
+Czech,Czech ,Ancestry,B04006,Persons,373,Social,Pop_5,True,True
+CzechSlv,Czechoslovakian ,Ancestry,B04006,Persons,374,Social,Pop_5,True,True
+Danish,Danish ,Ancestry,B04006,Persons,375,Social,Pop_5,True,True
+Dutch,Dutch ,Ancestry,B04006,Persons,376,Social,Pop_5,True,True
+EEurpn,Eastern European ,Ancestry,B04006,Persons,377,Social,Pop_5,True,True
+English,English ,Ancestry,B04006,Persons,378,Social,Pop_5,True,True
+Estonian,Estonian ,Ancestry,B04006,Persons,379,Social,Pop_5,True,True
+European,European ,Ancestry,B04006,Persons,380,Social,Pop_5,True,True
+Finnish,Finnish ,Ancestry,B04006,Persons,381,Social,Pop_5,True,True
+FrNotBsq,French (except Basque) ,Ancestry,B04006,Persons,382,Social,Pop_5,True,True
+FrCandian,French Canadian ,Ancestry,B04006,Persons,383,Social,Pop_5,True,True
+German,German ,Ancestry,B04006,Persons,384,Social,Pop_5,True,True
+GermRus,German Russian ,Ancestry,B04006,Persons,385,Social,Pop_5,True,True
+Greek,Greek ,Ancestry,B04006,Persons,386,Social,Pop_5,True,True
+Guyanese,Guyanese ,Ancestry,B04006,Persons,387,Social,Pop_5,True,True
+Hgrian,Hungarian ,Ancestry,B04006,Persons,388,Social,Pop_5,True,True
+Icelndr,Icelander ,Ancestry,B04006,Persons,389,Social,Pop_5,True,True
+Iranian,Iranian ,Ancestry,B04006,Persons,390,Social,Pop_5,True,True
+Irish,Irish ,Ancestry,B04006,Persons,391,Social,Pop_5,True,True
+Israeli,Israeli ,Ancestry,B04006,Persons,392,Social,Pop_5,True,True
+Italian,Italian ,Ancestry,B04006,Persons,393,Social,Pop_5,True,True
+Latvian,Latvian ,Ancestry,B04006,Persons,394,Social,Pop_5,True,True
+Lthian,Lithuanian ,Ancestry,B04006,Persons,395,Social,Pop_5,True,True
+Luxmbgr,Luxemburger ,Ancestry,B04006,Persons,396,Social,Pop_5,True,True
+Macdnian,Macedonian ,Ancestry,B04006,Persons,397,Social,Pop_5,True,True
+Maltese,Maltese ,Ancestry,B04006,Persons,398,Social,Pop_5,True,True
+Nzealnd,New Zealander ,Ancestry,B04006,Persons,399,Social,Pop_5,True,True
+NEurpn,Northern European ,Ancestry,B04006,Persons,400,Social,Pop_5,True,True
+Norwgian,Norwegian ,Ancestry,B04006,Persons,401,Social,Pop_5,True,True
+PennGerm,Pennsylvania German ,Ancestry,B04006,Persons,402,Social,Pop_5,True,True
+Polish,Polish ,Ancestry,B04006,Persons,403,Social,Pop_5,True,True
+Portgese,Portuguese ,Ancestry,B04006,Persons,404,Social,Pop_5,True,True
+Romanian,Romanian ,Ancestry,B04006,Persons,405,Social,Pop_5,True,True
+Russian,Russian ,Ancestry,B04006,Persons,406,Social,Pop_5,True,True
+Scandnvn,Scandinavian ,Ancestry,B04006,Persons,407,Social,Pop_5,True,True
+SctchIrsh,Scotch-Irish ,Ancestry,B04006,Persons,408,Social,Pop_5,True,True
+Scottish,Scottish ,Ancestry,B04006,Persons,409,Social,Pop_5,True,True
+Serbian,Serbian ,Ancestry,B04006,Persons,410,Social,Pop_5,True,True
+Slavic,Slavic ,Ancestry,B04006,Persons,411,Social,Pop_5,True,True
+Slovak,Slovak ,Ancestry,B04006,Persons,412,Social,Pop_5,True,True
+Slovene,Slovene ,Ancestry,B04006,Persons,413,Social,Pop_5,True,True
+SvtUnion,Soviet Union ,Ancestry,B04006,Persons,414,Social,,False,True
+SubSAf,Subsaharan African,Ancestry,B04006,Persons,415,Social,Pop_5,True,True
+Cvrdean,Cabo Verdean ,Ancestry,B04006,Persons,416,Social,Pop_5,True,True
+Ethpian,Ethiopian ,Ancestry,B04006,Persons,417,Social,Pop_5,True,True
+Ghanaian,Ghanaian ,Ancestry,B04006,Persons,418,Social,Pop_5,True,True
+Kenyan,Kenyan ,Ancestry,B04006,Persons,419,Social,Pop_5,True,True
+Liberian,Liberian ,Ancestry,B04006,Persons,420,Social,Pop_5,True,True
+Nigerian,Nigerian ,Ancestry,B04006,Persons,421,Social,Pop_5,True,True
+Snglese,Senegalese ,Ancestry,B04006,Persons,422,Social,Pop_5,True,True
+SLeonean,Sierra Leonean ,Ancestry,B04006,Persons,423,Social,Pop_5,True,True
+Somali,Somali ,Ancestry,B04006,Persons,424,Social,Pop_5,True,True
+SAfrican,South African ,Ancestry,B04006,Persons,425,Social,Pop_5,True,True
+Sudanese,Sudanese ,Ancestry,B04006,Persons,426,Social,Pop_5,True,True
+Ugandan,Ugandan ,Ancestry,B04006,Persons,427,Social,Pop_5,True,True
+Zmbwean,Zimbabwean ,Ancestry,B04006,Persons,428,Social,Pop_5,True,True
+African,African ,Ancestry,B04006,Persons,429,Social,Pop_5,True,True
+OSubSAfr,Other Subsaharan African ,Ancestry,B04006,Persons,430,Social,Pop_5,True,True
+Swedish,Swedish ,Ancestry,B04006,Persons,431,Social,Pop_5,True,True
+Swiss,Swiss ,Ancestry,B04006,Persons,432,Social,Pop_5,True,True
+Turkish,Turkish ,Ancestry,B04006,Persons,433,Social,Pop_5,True,True
+Ukrnian,Ukrainian ,Ancestry,B04006,Persons,434,Social,Pop_5,True,True
+Welsh,Welsh ,Ancestry,B04006,Persons,435,Social,Pop_5,True,True
+WIndNHsp,West Indian (except Hispanic groups),Ancestry,B04006,Persons,436,Social,Pop_5,True,True
+Bahamian,Bahamian ,Ancestry,B04006,Persons,437,Social,Pop_5,True,True
+Brbdian,Barbadian ,Ancestry,B04006,Persons,438,Social,Pop_5,True,True
+Belizean,Belizean ,Ancestry,B04006,Persons,439,Social,Pop_5,True,True
+Bermudan,Bermudan ,Ancestry,B04006,Persons,440,Social,Pop_5,True,True
+BrtWInd,British West Indian ,Ancestry,B04006,Persons,441,Social,Pop_5,True,True
+DchWInd,Dutch West Indian ,Ancestry,B04006,Persons,442,Social,Pop_5,True,True
+Haitian,Haitian ,Ancestry,B04006,Persons,443,Social,Pop_5,True,True
+Jamaican,Jamaican ,Ancestry,B04006,Persons,444,Social,Pop_5,True,True
+TAndTob,Trinidadian and Tobagonian ,Ancestry,B04006,Persons,445,Social,Pop_5,True,True
+USVrgIs,U.S. Virgin Islander ,Ancestry,B04006,Persons,446,Social,Pop_5,True,True
+WIndSub,West Indian ,Ancestry,B04006,Persons,447,Social,Pop_5,True,True
+OWInd,Other West Indian ,Ancestry,B04006,Persons,448,Social,Pop_5,True,True
+YugoSlv,Yugoslavian ,Ancestry,B04006,Persons,449,Social,Pop_5,True,True
+Othr,Other groups ,Ancestry,B04006,Persons,450,Social,Pop_5,True,True
+UnclsNR,Unclassified or not reported ,Ancestry,B04006,Persons,451,Social,Pop_5,True,True
+HH3,Total households,Computers and internet use,DP02,Households,452,Social,HH3,True,True
+HHComp,With a computer,Computers and internet use,DP02,Households,453,Social,HH3,True,True
+HHInt,With a broadband Internet subscription,Computers and internet use,DP02,Households,454,Social,HH3,True,True
